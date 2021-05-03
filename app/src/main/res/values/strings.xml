@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DeviGooglePlaces</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="something_wrong">SomeThing Went Wrong</string>
+    <string name="google_map_api">AIzaSyCVLkqzBHAslzk5vxGzXuGQtrKrzZXU4gk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_permission">Location Permission</string>
+    <string name="title_read_permission">Read SMS</string>
+    <string name="ok">ok</string>
+</resources>

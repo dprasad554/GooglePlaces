@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260906639221",
+    "firebase_url": "https://deviplaces.firebaseio.com",
+    "project_id": "deviplaces",
+    "storage_bucket": "deviplaces.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260906639221:android:9ceb30b6323c44c0a3bd3c",
+        "android_client_info": {
+          "package_name": "com.example.devigoogleplaces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260906639221-bham47h9sl24tpqkj7u0mcjh6in0m941.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devigoogleplaces",
+            "certificate_hash": "b42a7dd5378a2e8a8adc1280c5bd536e6e48368d"
+          }
+        },
+        {
+          "client_id": "260906639221-tukqqhltockklo2rbd29ug54v7q8586v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiQ9xF_uPV6bMyOBQWgMoV0AJKQv9ffto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260906639221-tukqqhltockklo2rbd29ug54v7q8586v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
